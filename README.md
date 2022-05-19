@@ -2,7 +2,7 @@
 Repository for applied programmig 
 
 # Set up
-To excecute the code without errors you will need **python version 10.0** or higher.  
+To excecute the code without errors you will need **python version 3.10.0** or higher.  
 
 Please install the requirements before opening the Jupiter Notebook. Open console navigate to this repository and activate your virtual environment (if needed or create one):  
 ```BASH
